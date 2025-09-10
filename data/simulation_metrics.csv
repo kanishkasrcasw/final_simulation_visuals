@@ -1,0 +1,5 @@
+hour,efficiency,cpu_usage,memory_usage,db_usage
+0,60,45,40,30
+6,75,70,65,55
+12,90,88,80,91
+18,82,78,72,85
